@@ -1,0 +1,20 @@
+.app {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 20px;
+}
+
+.card {
+  border: 3px solid #bc1c8c;
+  border-radius: 16px;
+  padding: 16px;
+  text-align: center;
+  width: 400px;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
